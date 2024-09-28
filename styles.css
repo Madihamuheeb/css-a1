@@ -1,0 +1,50 @@
+body{
+    font-family: sans-serif;
+    background-color: beige;
+}
+header{
+    background-color: brown;
+    text-align: center;
+    color: white;
+}
+h1{
+    color: white;
+}
+h2{
+    color: #a543a5;
+}
+ul{
+    list-style-type: none;
+    
+}
+    
+    li{
+    padding: 20px;
+    }
+
+    
+.bestseller{
+    font-size: 25px;
+    color: beige;
+}
+#fiction{
+    background-color: lightsalmon;
+    padding: 10px;
+    border-radius: 10px;
+}
+#non-fiction{
+    background-color:lightcoral;
+    padding: 20px;
+    border-radius: 15px;
+}
+footer{
+    text-align: center;
+    font-style: italic;
+
+
+}
+.student-name{
+    font-size: 25px;
+    color: deeppink;
+}
+    
